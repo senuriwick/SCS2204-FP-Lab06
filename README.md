@@ -1,3 +1,3 @@
 # SCS2204-FP-Lab06
-SCS 2204 - Functional Programming Lab Sheet 06 Exercise__
+SCS 2204 - Functional Programming Lab Sheet 06 Exercise <br />
 Scala program for Caesar Cipher
